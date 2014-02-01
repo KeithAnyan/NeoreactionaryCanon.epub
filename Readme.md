@@ -2,7 +2,7 @@
 
 eBook compliation of articles in [Neoreactionary Canon](http://anarchopapist.wordpress.com/neoreactionary-canon/) by Bryce Laliberte
 
-[Download](https://github.com/jbboehr/NeoreactionaryCanon.epub/raw/master/NeoreactionaryCanon.epub)
+Download: [epub](https://github.com/jbboehr/NeoreactionaryCanon.epub/raw/master/NeoreactionaryCanon.epub) [mobi](https://github.com/jbboehr/NeoreactionaryCanon.epub/raw/master/NeoreactionaryCanon.mobi)
 
 
 ## License

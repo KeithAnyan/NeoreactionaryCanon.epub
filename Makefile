@@ -1,9 +1,13 @@
-ALL : NeoreactionaryCanon.epub
+ALL : NeoreactionaryCanon.epub NeoreactionaryCanon.mobi
 
 NeoreactionaryCanon.epub : epub
 	rm -f NeoreactionaryCanon.epub
 	zip -X0 NeoreactionaryCanon.epub mimetype
 	zip -Xur9D NeoreactionaryCanon.epub META-INF/* OEBPS/*
+
+NeoreactionaryCanon.mobi : NeoreactionaryCanon.epub
+	rm -f NeoreactionaryCanon.mobi
+	ebook-convert NeoreactionaryCanon.epub NeoreactionaryCanon.mobi
 
 epub : mimetype META-INF/container.xml
 

@@ -5,7 +5,7 @@
     <dc:title>Neoreactionary Canon</dc:title>
     <dc:creator opf:role="aut">Various</dc:creator>
     <dc:language>en</dc:language>
-    <dc:date opf:event="modification">2014-01-30</dc:date>
+    <dc:date opf:event="modification">2014-02-01</dc:date>
     <dc:contributor opf:role="aut">Nick Land</dc:contributor>
     <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
     <dc:contributor opf:role="aut">Scott Alexander</dc:contributor>
@@ -122,7 +122,7 @@
     <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
     <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
     <item href="Fonts/philosopher-bold.ttf" id="philosopher-bold.ttf" media-type="application/x-font-ttf" />
-    <item href="Fonts/philosoher.ttf" id="philosoher.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher.ttf" id="philosoher.ttf" media-type="application/x-font-ttf" />
     <item href="Text/%28b17%29%20Material%20Conditions%2C%20Mass%20Psychology%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" id="_b17__Material_Conditions__Mass_Psychology_-_Amos___Gromar__c00__Title.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28b17%29%20Material%20Conditions%2C%20Mass%20Psychology%20-%20Amos%20%26%20Gromar%20%28c01%29.xhtml" id="_b17__Material_Conditions__Mass_Psychology_-_Amos___Gromar__c01_.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28b18%29%20How%20Democracy%20Fails%20Brechts%20Solution%20-%20ThedenTV%20%28c00%29%20Title.xhtml" id="_b18__How_Democracy_Fails_Brechts_Solution_-_ThedenTV__c00__Title.xhtml" media-type="application/xhtml+xml" />
@@ -286,6 +286,9 @@
     <item href="Images/author-banner-habitable-worlds.png" id="author-banner-habitable-worlds.png" media-type="image/png" />
     <item href="Images/author-banner-the-legionnaire.jpg" id="author-banner-the-legionnaire.jpg" media-type="image/jpeg" />
     <item href="Images/author-banner-radish.jpg" id="author-banner-radish.jpg" media-type="image/jpeg" />
+    <item href="Text/books.xhtml" id="books.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Michael%20Anissimov%20%28c02%29%20Title.xhtml" id="_b00__Neoreactionary_Canon_-_Michael_Anissimov__c02__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Michael%20Anissimov%20%28c03%29.xhtml" id="_b00__Neoreactionary_Canon_-_Michael_Anissimov__c03_.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="title.xhtml" />
@@ -294,6 +297,8 @@
     <itemref idref="_g00_.xhtml" />
     <itemref idref="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c00__Title.xhtml" />
     <itemref idref="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c01_.xhtml" />
+    <itemref idref="_b00__Neoreactionary_Canon_-_Michael_Anissimov__c02__Title.xhtml" />
+    <itemref idref="_b00__Neoreactionary_Canon_-_Michael_Anissimov__c03_.xhtml" />
     <itemref idref="_g01_.xhtml" />
     <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c00__Title.xhtml" />
     <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c01__Part_1.xhtml" />
@@ -454,6 +459,7 @@
     <itemref idref="_g06_.xhtml" />
     <itemref idref="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c00__Title.xhtml" />
     <itemref idref="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c01_.xhtml" />
+    <itemref idref="books.xhtml" />
     <itemref idref="glossary.xhtml" />
   </spine>
   <guide>

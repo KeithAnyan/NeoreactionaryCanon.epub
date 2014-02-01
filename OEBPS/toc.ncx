@@ -9,7 +9,7 @@
     <meta name="dtb:maxPageNumber" content="0" />
   </head>
   <docTitle>
-    <text>Neoreactionary Canon (v2)</text>
+    <text>Neoreactionary Canon</text>
   </docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
@@ -35,708 +35,714 @@
         </navLabel>
         <content src="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Neoreactionary Canon</text>
+        </navLabel>
+        <content src="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Michael%20Anissimov%20%28c02%29%20Title.xhtml" />
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
         <text>Major Works</text>
       </navLabel>
       <content src="Text/%28g01%29.xhtml" />
-      <navPoint id="navPoint-6" playOrder="6">
+      <navPoint id="navPoint-7" playOrder="7">
         <navLabel>
           <text>The Dark Enlightenment</text>
         </navLabel>
         <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" />
-        <navPoint id="navPoint-7" playOrder="7">
+        <navPoint id="navPoint-8" playOrder="8">
           <navLabel>
             <text>Part 1: Neo-reactionaries head for the exit</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c01%29%20Part%201.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-8" playOrder="8">
+        <navPoint id="navPoint-9" playOrder="9">
           <navLabel>
             <text>Part 2: The arc of history is long, but it bends towards zombie apocalypse</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c02%29%20Part%202.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-9" playOrder="9">
+        <navPoint id="navPoint-10" playOrder="10">
           <navLabel>
             <text>Part 3</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c03%29%20Part%203.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-10" playOrder="10">
+        <navPoint id="navPoint-11" playOrder="11">
           <navLabel>
             <text>Part 4: Re-running the race to ruin</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c04%29%20Part%204.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-11" playOrder="11">
+        <navPoint id="navPoint-12" playOrder="12">
           <navLabel>
             <text>Part 4a: A multi-part sub-digression into racial terror</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c05%29%20Part%204a.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-12" playOrder="12">
+        <navPoint id="navPoint-13" playOrder="13">
           <navLabel>
             <text>Part 4b: Obnoxious observations</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c06%29%20Part%204b.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-13" playOrder="13">
+        <navPoint id="navPoint-14" playOrder="14">
           <navLabel>
             <text>Part 4c: The Cracker Factory</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c07%29%20Part%204c.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-14" playOrder="14">
+        <navPoint id="navPoint-15" playOrder="15">
           <navLabel>
             <text>Part 4d: Odd Marriages</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c08%29%20Part%204d.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-15" playOrder="15">
+        <navPoint id="navPoint-16" playOrder="16">
           <navLabel>
             <text>Part 4e: Cross-coded history</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c09%29%20Part%204e.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-16" playOrder="16">
+        <navPoint id="navPoint-17" playOrder="17">
           <navLabel>
             <text>Part 4f: Approaching the Bionic Horizon</text>
           </navLabel>
           <content src="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c10%29%20Part%204f.xhtml" />
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-17" playOrder="17">
+      <navPoint id="navPoint-18" playOrder="18">
         <navLabel>
           <text>An open letter to open-minded progressives</text>
         </navLabel>
         <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c00%29%20Title.xhtml" />
-        <navPoint id="navPoint-18" playOrder="18">
+        <navPoint id="navPoint-19" playOrder="19">
           <navLabel>
             <text>Part 1</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c01%29%20Part%201.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-19" playOrder="19">
+        <navPoint id="navPoint-20" playOrder="20">
           <navLabel>
             <text>Part 2: more historical anomalies</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c02%29%20Part%202.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-20" playOrder="20">
+        <navPoint id="navPoint-21" playOrder="21">
           <navLabel>
             <text>Part 3: the Jacobite history of the world</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c03%29%20Part%203.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-21" playOrder="21">
+        <navPoint id="navPoint-22" playOrder="22">
           <navLabel>
             <text>Part 4: Dr. Johnson's hypothesis</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c04%29%20Part%204.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-22" playOrder="22">
+        <navPoint id="navPoint-23" playOrder="23">
           <navLabel>
             <text>Part 5: the shortest way to world peace</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c05%29%20Part%205.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-23" playOrder="23">
+        <navPoint id="navPoint-24" playOrder="24">
           <navLabel>
             <text>Part 6: the lost theory of government</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c06%29%20Part%206.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-24" playOrder="24">
+        <navPoint id="navPoint-25" playOrder="25">
           <navLabel>
             <text>Part 7: the ugly truth about government</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c07%29%20Part%207.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-25" playOrder="25">
+        <navPoint id="navPoint-26" playOrder="26">
           <navLabel>
             <text>Part 8: a reset is not a revolution</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c08%29%20Part%208.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-26" playOrder="26">
+        <navPoint id="navPoint-27" playOrder="27">
           <navLabel>
             <text>Part 9: how to uninstall a cathedral</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c09%29%20Part%209.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-27" playOrder="27">
+        <navPoint id="navPoint-28" playOrder="28">
           <navLabel>
             <text>Part 10: a simple sovereign bankruptcy procedure</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c10%29%20Part%2010.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-28" playOrder="28">
+        <navPoint id="navPoint-29" playOrder="29">
           <navLabel>
             <text>Part 11: the truth about left and right</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c11%29%20Part%2011.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-29" playOrder="29">
+        <navPoint id="navPoint-30" playOrder="30">
           <navLabel>
             <text>Part 12: what is to be done?</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c12%29%20Part%2012.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-30" playOrder="30">
+        <navPoint id="navPoint-31" playOrder="31">
           <navLabel>
             <text>Part 13: tactics and structures of any prospective restoration</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c13%29%20Part%2013.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-31" playOrder="31">
+        <navPoint id="navPoint-32" playOrder="32">
           <navLabel>
             <text>Part 14: rules for reactionaries</text>
           </navLabel>
           <content src="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c14%29%20Part%2014.xhtml" />
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-32" playOrder="32">
+      <navPoint id="navPoint-33" playOrder="33">
         <navLabel>
           <text>Reactionary Philosophy in an Enormous, Planet-sized Nutshell</text>
         </navLabel>
         <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c00%29%20Title.xhtml" />
-        <navPoint id="navPoint-33" playOrder="33">
+        <navPoint id="navPoint-34" playOrder="34">
           <navLabel>
             <text>Intro</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c01%29%20Intro.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-34" playOrder="34">
+        <navPoint id="navPoint-35" playOrder="35">
           <navLabel>
             <text>No One Expects The Spanish Inquisition, Especially Not In 21st Century America</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c02%29%20Part%201.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-35" playOrder="35">
+        <navPoint id="navPoint-36" playOrder="36">
           <navLabel>
             <text>Wait, You Mean The Invisible Multi-Tentacled Monster That Has Taken Over All Our Information Sources Might Be Trying To Mislead Us?</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c03%29%20Part%202.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-36" playOrder="36">
+        <navPoint id="navPoint-37" playOrder="37">
           <navLabel>
             <text>The Past Is A First World Country</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c04%29%20Part%203.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-37" playOrder="37">
+        <navPoint id="navPoint-38" playOrder="38">
           <navLabel>
             <text>Every Time I Hear The Word “Revolver”, I Reach For My Culture</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c05%29%20Part%204.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-38" playOrder="38">
+        <navPoint id="navPoint-39" playOrder="39">
           <navLabel>
             <text>The Other Chinese Room Experiment</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c06%29%20Part%205.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-39" playOrder="39">
+        <navPoint id="navPoint-40" playOrder="40">
           <navLabel>
             <text>On Second Thought, Keep Your Tired And Poor To Yourself</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c07%29%20Part%206.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-40" playOrder="40">
+        <navPoint id="navPoint-41" playOrder="41">
           <navLabel>
             <text>Imperialism Strikes Back</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c08%29%20Part%207.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-41" playOrder="41">
+        <navPoint id="navPoint-42" playOrder="42">
           <navLabel>
             <text>The Uncanny Valley Of Dictatorship</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c09%29%20Part%208.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-42" playOrder="42">
+        <navPoint id="navPoint-43" playOrder="43">
           <navLabel>
             <text>Humane, All Too Humane</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c10%29%20Part%209.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-43" playOrder="43">
+        <navPoint id="navPoint-44" playOrder="44">
           <navLabel>
             <text>Gender! And Now That I Have Your Attention, Let’s Talk About Sex</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c11%29%20Part%2010.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-44" playOrder="44">
+        <navPoint id="navPoint-45" playOrder="45">
           <navLabel>
             <text>Plays Well In Groups</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c12%29%20Part%2011.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-45" playOrder="45">
+        <navPoint id="navPoint-46" playOrder="46">
           <navLabel>
             <text>Reach For The Tsars</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c13%29%20Part%2012.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-46" playOrder="46">
+        <navPoint id="navPoint-47" playOrder="47">
           <navLabel>
             <text>A Brief Survey Of Not Directly Political Reactionary Philosophy</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c14%29%20Part%2013.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-47" playOrder="47">
+        <navPoint id="navPoint-48" playOrder="48">
           <navLabel>
             <text>But Seriously, What Do We Do About This Hole? And How Fast Should We Be Digging, Anyway?</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c15%29%20Part%2014.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-48" playOrder="48">
+        <navPoint id="navPoint-49" playOrder="49">
           <navLabel>
             <text>Outro</text>
           </navLabel>
           <content src="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c16%29%20Outro.xhtml" />
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-49" playOrder="49">
+      <navPoint id="navPoint-50" playOrder="50">
         <navLabel>
           <text>What is Neoreaction: Ideology, Social-Historical Evolution, and the Phenomena of Civilization</text>
         </navLabel>
         <content src="Text/%28b04%29%20What%20Is%20Neoreaction%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-50" playOrder="50">
+    <navPoint id="navPoint-51" playOrder="51">
       <navLabel>
         <text>Initial Remarks</text>
       </navLabel>
       <content src="Text/%28g02%29.xhtml" />
-      <navPoint id="navPoint-51" playOrder="51">
+      <navPoint id="navPoint-52" playOrder="52">
         <navLabel>
           <text>Introduction to the Neoreaction</text>
         </navLabel>
         <content src="Text/%28b05%29%20Introduction%20To%20The%20Neoreaction%20-%20AnomalyUK%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-52" playOrder="52">
+      <navPoint id="navPoint-53" playOrder="53">
         <navLabel>
           <text>Neoreaction (for dummies)</text>
         </navLabel>
         <content src="Text/%28b06%29%20Neoreaction%20For%20Dummies%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-53" playOrder="53">
+      <navPoint id="navPoint-54" playOrder="54">
         <navLabel>
           <text>The Reactionary Consensus</text>
         </navLabel>
         <content src="Text/%28b07%29%20The%20Reactionary%20Consensus%20%20-%20Nick%20B%20Steves%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-54" playOrder="54">
+      <navPoint id="navPoint-55" playOrder="55">
         <navLabel>
           <text>Reactionary Unity</text>
         </navLabel>
         <content src="Text/%28b08%29%20Reactionary%20Unity%20-%20AnomalyUK%20%28c00%29%20Title..xhtml" />
       </navPoint>
-      <navPoint id="navPoint-55" playOrder="55">
+      <navPoint id="navPoint-56" playOrder="56">
         <navLabel>
           <text>What unites neoreaction?</text>
         </navLabel>
         <content src="Text/%28b09%29%20What%20Unites%20Neoreaction%20-%20Jim%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-56" playOrder="56">
+      <navPoint id="navPoint-57" playOrder="57">
         <navLabel>
           <text>Trichotomy</text>
         </navLabel>
         <content src="Text/%28b10%29%20Trichotomy%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-57" playOrder="57">
+      <navPoint id="navPoint-58" playOrder="58">
         <navLabel>
           <text>A formalist manifesto</text>
         </navLabel>
         <content src="Text/%28b11%29%20A%20Formalist%20Manifesto%20-%20Mencius%20Moldbug%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-58" playOrder="58">
+      <navPoint id="navPoint-59" playOrder="59">
         <navLabel>
           <text>Potential Approximations of Neoreaction</text>
         </navLabel>
         <content src="Text/%28b12%29%20Potential%20Approximations%20Of%20Neoreaction%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-59" playOrder="59">
+      <navPoint id="navPoint-60" playOrder="60">
         <navLabel>
           <text>Oaks vs. Sandboxes</text>
         </navLabel>
         <content src="Text/%28b13%29%20Oaks%20vs%20Sandboxes%20-%20MichaelAnissimov%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-60" playOrder="60">
+      <navPoint id="navPoint-61" playOrder="61">
         <navLabel>
           <text>Premises Of Neoreactionary Thought</text>
         </navLabel>
         <content src="Text/%28b14%29%20Premises%20Of%20Neoreactionary%20Thought%20-%20Michael%20Anissimov%20%28c00%29%20Title.xhtml" />
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-61" playOrder="61">
+    <navPoint id="navPoint-62" playOrder="62">
       <navLabel>
         <text>Taking the Red Pill</text>
       </navLabel>
       <content src="Text/%28g03%29.xhtml" />
-      <navPoint id="navPoint-62" playOrder="62">
+      <navPoint id="navPoint-63" playOrder="63">
         <navLabel>
           <text>How to Look at the World Like a Neoreactionary</text>
         </navLabel>
         <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
-        <navPoint id="navPoint-63" playOrder="63">
+        <navPoint id="navPoint-64" playOrder="64">
           <navLabel>
             <text>Part 1</text>
           </navLabel>
           <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c01%29%20Part%201.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-64" playOrder="64">
+        <navPoint id="navPoint-65" playOrder="65">
           <navLabel>
             <text>Part 2</text>
           </navLabel>
           <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c02%29%20Part%202.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-65" playOrder="65">
+        <navPoint id="navPoint-66" playOrder="66">
           <navLabel>
             <text>Part 3</text>
           </navLabel>
           <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c03%29%20Part%203.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-66" playOrder="66">
+        <navPoint id="navPoint-67" playOrder="67">
           <navLabel>
             <text>Part 4</text>
           </navLabel>
           <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c04%29%20Part%204.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-67" playOrder="67">
+        <navPoint id="navPoint-68" playOrder="68">
           <navLabel>
             <text>Part 5</text>
           </navLabel>
           <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c05%29%20Part%205.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-68" playOrder="68">
+        <navPoint id="navPoint-69" playOrder="69">
           <navLabel>
             <text>Part 6</text>
           </navLabel>
           <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c06%29%20Part%206.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-69" playOrder="69">
+        <navPoint id="navPoint-70" playOrder="70">
           <navLabel>
             <text>Part 7</text>
           </navLabel>
           <content src="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c07%29%20Part%207.xhtml" />
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-70" playOrder="70">
+      <navPoint id="navPoint-71" playOrder="71">
         <navLabel>
           <text>An introduction to group dynamics</text>
         </navLabel>
         <content src="Text/%28b16%29%20An%20Introduction%20to%20Group%20Dynamics%20-%20nydwracu%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-71" playOrder="71">
+      <navPoint id="navPoint-72" playOrder="72">
         <navLabel>
           <text>Material conditions, mass psychology</text>
         </navLabel>
         <content src="Text/%28b17%29%20Material%20Conditions%2C%20Mass%20Psychology%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-72" playOrder="72">
+      <navPoint id="navPoint-73" playOrder="73">
         <navLabel>
           <text>How Democracy Fails: Brecht’s Solution</text>
         </navLabel>
         <content src="Text/%28b18%29%20How%20Democracy%20Fails%20Brechts%20Solution%20-%20ThedenTV%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-73" playOrder="73">
+      <navPoint id="navPoint-74" playOrder="74">
         <navLabel>
           <text>The part is subordinate to the whole: female outliers</text>
         </navLabel>
         <content src="Text/%28b19%29%20The%20Part%20is%20Subordinate%20to%20the%20Whole%20Female%20Outliers%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-74" playOrder="74">
+      <navPoint id="navPoint-75" playOrder="75">
         <navLabel>
           <text>Language is a badge of tribal membership</text>
         </navLabel>
         <content src="Text/%28b20%29%20Language%20is%20a%20Badge%20of%20Tribal%20Membership%20-%20Spandrell%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-75" playOrder="75">
+      <navPoint id="navPoint-76" playOrder="76">
         <navLabel>
           <text>Three Reasons Diversity Isn’t Working</text>
         </navLabel>
         <content src="Text/%28b21%29%20Three%20Reasons%20Diversity%20Isnt%20Working%20-%20ThedenTv%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-76" playOrder="76">
+      <navPoint id="navPoint-77" playOrder="77">
         <navLabel>
           <text>Post-Modernism’s Final Causes and Pyrrhic Victory</text>
         </navLabel>
         <content src="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c00%29%20Title.xhtml" />
-        <navPoint id="navPoint-77" playOrder="77">
+        <navPoint id="navPoint-78" playOrder="78">
           <navLabel>
             <text>Part 1: Post-Modernism Understood Through Aristotle’s Four Causes</text>
           </navLabel>
           <content src="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c01%29%20Part%201.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-78" playOrder="78">
+        <navPoint id="navPoint-79" playOrder="79">
           <navLabel>
             <text>Part 2: Post-Modernism, Wealth, and Entropy</text>
           </navLabel>
           <content src="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c02%29%20Part%202.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-79" playOrder="79">
+        <navPoint id="navPoint-80" playOrder="80">
           <navLabel>
             <text>Part 3: Post-Modernism’s Final Causes and Pyrrhic Victory</text>
           </navLabel>
           <content src="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c03%29%20Part%203.xhtml" />
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint-80" playOrder="80">
+      <navPoint id="navPoint-81" playOrder="81">
         <navLabel>
           <text>Making Neoreaction Simple</text>
         </navLabel>
         <content src="Text/%28b23%29%20Making%20Neoreaction%20Simple%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-81" playOrder="81">
+      <navPoint id="navPoint-82" playOrder="82">
         <navLabel>
           <text>The Cathedral and the Bizarre: Benjamin Crump’s Manufactured Consent</text>
         </navLabel>
         <content src="Text/%28b24%29%20The%20Cathedral%20and%20the%20Bizzarre%20Benjamin%20Crumps%20Manufactured%20Consent%20-%20ThedenTV%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-82" playOrder="82">
+      <navPoint id="navPoint-83" playOrder="83">
         <navLabel>
           <text>A Decent Life For Decent People</text>
         </navLabel>
         <content src="Text/%28b25%29%20A%20Decent%20Life%20For%20Decent%20People%20-%20Handles%20Haus%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-83" playOrder="83">
+      <navPoint id="navPoint-84" playOrder="84">
         <navLabel>
           <text>Conservatism and the Cognitive Miser</text>
         </navLabel>
         <content src="Text/%28b26%29%20Conservatism%20and%20the%20Cognitive%20Miser%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-84" playOrder="84">
+      <navPoint id="navPoint-85" playOrder="85">
         <navLabel>
           <text>The Biological Vote: It's Implications for Conservatism</text>
         </navLabel>
         <content src="Text/%28b27%29%20The%20Biological%20Vote%20Its%20Implications%20For%20Conservatism%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-85" playOrder="85">
+      <navPoint id="navPoint-86" playOrder="86">
         <navLabel>
           <text>Clausewitz, Lenin, Robin Dunbar</text>
         </navLabel>
         <content src="Text/%28b28%29%20Clausewitz%20Lenin%20Robin%20Dunbar%20-%20Spandrell%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-86" playOrder="86">
+      <navPoint id="navPoint-87" playOrder="87">
         <navLabel>
           <text>The Monkey Trap</text>
         </navLabel>
         <content src="Text/%28b29%29%20The%20Monkey%20Trap%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-87" playOrder="87">
+      <navPoint id="navPoint-88" playOrder="88">
         <navLabel>
           <text>Screwed Since 1913</text>
         </navLabel>
         <content src="Text/%28b30%29%20Screwed%20Since%201913%20-%20ThedenTV%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-88" playOrder="88">
+      <navPoint id="navPoint-89" playOrder="89">
         <navLabel>
           <text>Creeping Horror</text>
         </navLabel>
         <content src="Text/%28b31%29%20Creeping%20Horror%20-%20Free%20Northerner%20%28c00%29%20Title.xhtml" />
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-89" playOrder="89">
+    <navPoint id="navPoint-90" playOrder="90">
       <navLabel>
         <text>Whipping Up a Society from Scratch</text>
       </navLabel>
       <content src="Text/%28g04%29.xhtml" />
-      <navPoint id="navPoint-90" playOrder="90">
+      <navPoint id="navPoint-91" playOrder="91">
         <navLabel>
           <text>Myth, Rhetoric, and the Dark Enlightenment</text>
         </navLabel>
         <content src="Text/%28b32%29%20Myth%20Rhetoric%20and%20the%20Dark%20Enlightenment%20-%20Habitable%20Worlds%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-91" playOrder="91">
+      <navPoint id="navPoint-92" playOrder="92">
         <navLabel>
           <text>Stability as Virtue of Civilization</text>
         </navLabel>
         <content src="Text/%28b33%29%20Stability%20as%20a%20Virtue%20of%20Civilization%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-92" playOrder="92">
+      <navPoint id="navPoint-93" playOrder="93">
         <navLabel>
           <text>Reconciling Transhumanism and Neoreaction</text>
         </navLabel>
         <content src="Text/%28b34%29%20Reconciling%20Transhumanism%20and%20Neoreaction%20-%20Michael%20Anissimov%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-93" playOrder="93">
+      <navPoint id="navPoint-94" playOrder="94">
         <navLabel>
           <text>Inaccessible Is Ungovernable</text>
         </navLabel>
         <content src="Text/%28b35%29%20Inaccessible%20is%20Ungovernable%20-%20Handles%20Haus%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-94" playOrder="94">
+      <navPoint id="navPoint-95" playOrder="95">
         <navLabel>
           <text>Chinese Eugenics and Why Losers Don’t Win</text>
         </navLabel>
         <content src="Text/%28b36%29%20Chinese%20Eugenics%20and%20Why%20Losers%20Dont%20Win%20-%20ThedenTV%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-95" playOrder="95">
+      <navPoint id="navPoint-96" playOrder="96">
         <navLabel>
           <text>Monarchy</text>
         </navLabel>
         <content src="Text/%28b37%29%20Monarchy%20-%20Spandrell%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-96" playOrder="96">
+      <navPoint id="navPoint-97" playOrder="97">
         <navLabel>
           <text>Burnout</text>
         </navLabel>
         <content src="Text/%28b38%29%20Burnout%20-%20Nydwracu%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-97" playOrder="97">
+      <navPoint id="navPoint-98" playOrder="98">
         <navLabel>
           <text>The Path to Legionnaire: The Power of Myth</text>
         </navLabel>
         <content src="Text/%28b39%29%20The%20Path%20of%20the%20Legionnaire%20The%20Power%20of%20Myth%20-%20The%20Legionnaire%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-98" playOrder="98">
+      <navPoint id="navPoint-99" playOrder="99">
         <navLabel>
           <text>The Cult of Neoreaction</text>
         </navLabel>
         <content src="Text/%28b40%29%20The%20Cult%20of%20Neoreaction%20-%20Samo%20Burja%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-99" playOrder="99">
+      <navPoint id="navPoint-100" playOrder="100">
         <navLabel>
           <text>Neoreaction, liberalism, conservatism: reject the isms</text>
         </navLabel>
         <content src="Text/%28b41%29%20Neoreaction%20liberalism%20conservatism%20reject%20the%20isms%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-100" playOrder="100">
+      <navPoint id="navPoint-101" playOrder="101">
         <navLabel>
           <text>ur-Malthusianism</text>
         </navLabel>
         <content src="Text/%28b42%29%20ur%20Malthusianism%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-101" playOrder="101">
+    <navPoint id="navPoint-102" playOrder="102">
       <navLabel>
         <text>Tinkering with Ideology</text>
       </navLabel>
       <content src="Text/%28g05%29.xhtml" />
-      <navPoint id="navPoint-102" playOrder="102">
+      <navPoint id="navPoint-103" playOrder="103">
         <navLabel>
           <text>Taking on the Cathedral</text>
         </navLabel>
         <content src="Text/%28b43%29%20Taking%20on%20the%20Cathedral%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-103" playOrder="103">
+      <navPoint id="navPoint-104" playOrder="104">
         <navLabel>
           <text>Transhumanism and Palingenesis</text>
         </navLabel>
         <content src="Text/%28b44%29%20Transhumanism%20and%20Palingenesis%20-%20Michael%20Anissimov%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-104" playOrder="104">
+      <navPoint id="navPoint-105" playOrder="105">
         <navLabel>
           <text>To Light a Fire Under the Ass of the Neoreaction</text>
         </navLabel>
         <content src="Text/%28b45%29%20To%20Light%20a%20fire%20Under%20the%20Ass%20of%20the%20Neoreaction%20-%20Raptros%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-105" playOrder="105">
+      <navPoint id="navPoint-106" playOrder="106">
         <navLabel>
           <text>Game, Dark Enlightenment, and Reaction</text>
         </navLabel>
         <content src="Text/%28b46%29%20Game%20Dark%20Enlightenment%20and%20Reaction%20-%20Jim%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-106" playOrder="106">
+      <navPoint id="navPoint-107" playOrder="107">
         <navLabel>
           <text>Cipher Ideology</text>
         </navLabel>
         <content src="Text/%28b47%29%20Cipher%20Ideology%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-107" playOrder="107">
+      <navPoint id="navPoint-108" playOrder="108">
         <navLabel>
           <text>The Dove Sketches Beauty Scam</text>
         </navLabel>
         <content src="Text/%28b48%29%20The%20Dove%20Sketches%20Beauty%20Scam%20-%20The%20Last%20Psychiatrist%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-108" playOrder="108">
+      <navPoint id="navPoint-109" playOrder="109">
         <navLabel>
           <text>Real Men Want To Drink Guinness, But Don't Expect Them To Pay For It</text>
         </navLabel>
         <content src="Text/%28b49%29%20Real%20Men%20Want%20to%20Drink%20Guinness%20-%20The%20Last%20Psychiatrist%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-109" playOrder="109">
+      <navPoint id="navPoint-110" playOrder="110">
         <navLabel>
           <text>A typology of magic</text>
         </navLabel>
         <content src="Text/%28b50%29%20A%20Typology%20of%20Magic%20-%20Nydwracu%20%28b00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-110" playOrder="110">
+      <navPoint id="navPoint-111" playOrder="111">
         <navLabel>
           <text>Horrorism</text>
         </navLabel>
         <content src="Text/%28b51%29%20Horrorism%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-111" playOrder="111">
+      <navPoint id="navPoint-112" playOrder="112">
         <navLabel>
           <text>Discrimination</text>
         </navLabel>
         <content src="Text/%28b52%29%20Discrimination%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-112" playOrder="112">
+      <navPoint id="navPoint-113" playOrder="113">
         <navLabel>
           <text>Orwell and Newspeak</text>
         </navLabel>
         <content src="Text/%28b53%29%20Orwell%20and%20Newspeak%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" />
       </navPoint>
-      <navPoint id="navPoint-113" playOrder="113">
+      <navPoint id="navPoint-114" playOrder="114">
         <navLabel>
           <text>Wittgenstein, Ideology, and Signaling</text>
         </navLabel>
         <content src="Text/%28b54%29%20Wittgenstein%20Ideology%20and%20Signaling%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-114" playOrder="114">
+    <navPoint id="navPoint-115" playOrder="115">
       <navLabel>
         <text>Appendices</text>
       </navLabel>
       <content src="Text/%28g06%29.xhtml" />
-      <navPoint id="navPoint-115" playOrder="115">
+      <navPoint id="navPoint-116" playOrder="116">
         <navLabel>
           <text>Heroes of the Dark Enlightenment</text>
         </navLabel>
         <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c00%29%20Title.xhtml" />
-        <navPoint id="navPoint-116" playOrder="116">
+        <navPoint id="navPoint-117" playOrder="117">
           <navLabel>
             <text>A Brief History of Reactionary Taxonomy</text>
           </navLabel>
           <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml" />
         </navPoint>
-        <navPoint id="navPoint-117" playOrder="117">
+        <navPoint id="navPoint-118" playOrder="118">
           <navLabel>
             <text>Formalists</text>
           </navLabel>
           <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_1" />
         </navPoint>
-        <navPoint id="navPoint-118" playOrder="118">
+        <navPoint id="navPoint-119" playOrder="119">
           <navLabel>
             <text>Futurists</text>
           </navLabel>
           <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_2" />
         </navPoint>
-        <navPoint id="navPoint-119" playOrder="119">
+        <navPoint id="navPoint-120" playOrder="120">
           <navLabel>
             <text>Scientists</text>
           </navLabel>
           <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_3" />
         </navPoint>
-        <navPoint id="navPoint-120" playOrder="120">
+        <navPoint id="navPoint-121" playOrder="121">
           <navLabel>
             <text>Racialists</text>
           </navLabel>
           <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_4" />
         </navPoint>
-        <navPoint id="navPoint-121" playOrder="121">
+        <navPoint id="navPoint-122" playOrder="122">
           <navLabel>
             <text>Masculinists</text>
           </navLabel>
           <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_5" />
         </navPoint>
-        <navPoint id="navPoint-122" playOrder="122">
+        <navPoint id="navPoint-123" playOrder="123">
           <navLabel>
             <text>Traditionalists</text>
           </navLabel>
@@ -744,7 +750,13 @@
         </navPoint>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-123" playOrder="123">
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>Books</text>
+      </navLabel>
+      <content src="Text/books.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
       <navLabel>
         <text>Glossary</text>
       </navLabel>
