@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d95c9090-24e3-4a53-9b20-20be9dc917fb</dc:identifier>
+    <dc:title>Neoreactionary Canon (v3)</dc:title>
+    <dc:creator opf:role="aut">Various</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2014-01-30</dc:date>
+    <dc:contributor opf:role="aut">Nick Land</dc:contributor>
+    <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
+    <dc:contributor opf:role="aut">Scott Alexander</dc:contributor>
+    <dc:contributor opf:role="aut">Bryce Laliberte</dc:contributor>
+    <dc:contributor opf:role="aut">AnomalyUK</dc:contributor>
+    <dc:contributor opf:role="aut">Nick B Steves</dc:contributor>
+    <dc:contributor opf:role="aut">Outside In</dc:contributor>
+    <dc:contributor opf:role="aut">Jim</dc:contributor>
+    <dc:contributor opf:role="aut">Michael Anissimov</dc:contributor>
+    <dc:contributor opf:role="aut">nydwracu</dc:contributor>
+    <dc:contributor opf:role="aut">Amos &amp; Gromar</dc:contributor>
+    <dc:contributor opf:role="aut">Theden.tv</dc:contributor>
+    <dc:contributor opf:role="aut">Spandrell</dc:contributor>
+    <dc:contributor opf:role="aut">iParallax</dc:contributor>
+    <dc:contributor opf:role="aut">Handle's Haus</dc:contributor>
+    <dc:contributor opf:role="aut">The Social Pathologist</dc:contributor>
+    <dc:contributor opf:role="aut">Free Northerner</dc:contributor>
+    <dc:contributor opf:role="aut">Habitable Worlds</dc:contributor>
+    <dc:contributor opf:role="aut">Samo Burja</dc:contributor>
+    <dc:contributor opf:role="aut">Raptros</dc:contributor>
+    <dc:contributor opf:role="aut">The Last Psychiatrist</dc:contributor>
+    <dc:contributor opf:role="aut">RadishMag</dc:contributor>
+    <dc:source>http://anarchopapist.wordpress.com/neoreactionary-canon/</dc:source>
+    <meta content="0.7.4" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c01%29%20Part%201.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c01__Part_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c02%29%20Part%202.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c02__Part_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c03%29%20Part%203.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c03__Part_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c04%29%20Part%204.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c04__Part_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c05%29%20Part%204a.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c05__Part_4a.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c06%29%20Part%204b.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c06__Part_4b.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c07%29%20Part%204c.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c07__Part_4c.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c08%29%20Part%204d.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c08__Part_4d.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c09%29%20Part%204e.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c09__Part_4e.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b01%29%20The%20Dark%20Enlightenment%20-%20Nick%20Land%20%28c10%29%20Part%204f.xhtml" id="_b01__The_Dark_Enlightenment_-_Nick_Land__c10__Part_4f.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c01%29%20Part%201.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c01__Part_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c00%29%20Title.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c02%29%20Part%202.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c02__Part_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c03%29%20Part%203.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c03__Part_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c04%29%20Part%204.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c04__Part_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c05%29%20Part%205.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c05__Part_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c06%29%20Part%206.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c06__Part_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c07%29%20Part%207.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c07__Part_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c08%29%20Part%208.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c08__Part_8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c09%29%20Part%209.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c09__Part_9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c10%29%20Part%2010.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c10__Part_10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c11%29%20Part%2011.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c11__Part_11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c12%29%20Part%2012.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c12__Part_12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c13%29%20Part%2013.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c13__Part_13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b02%29%20An%20Open%20Letter%20To%20Open%20Minded%20Progressives%20-%20Mencius%20Moldbug%20%28c14%29%20Part%2014.xhtml" id="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c14__Part_14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c00%29%20Title.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b03-mining.jpg" id="b03-mining.jpg" media-type="image/jpeg" />
+    <item href="Images/b03-shovel.jpg" id="b03-shovel.jpg" media-type="image/jpeg" />
+    <item href="Images/b03-crime.jpg" id="b03-crime.jpg" media-type="image/jpeg" />
+    <item href="Images/b03-gap.gif" id="b03-gap.gif" media-type="image/gif" />
+    <item href="Images/b03-gapw.jpg" id="b03-gapw.jpg" media-type="image/jpeg" />
+    <item href="Images/b03-sasha.jpg" id="b03-sasha.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b04%29%20What%20Is%20Neoreaction%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b04__What_Is_Neoreaction_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28g01%29.xhtml" id="_g01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28g02%29.xhtml" id="_g02_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b05%29%20Introduction%20To%20The%20Neoreaction%20-%20AnomalyUK%20%28c00%29%20Title.xhtml" id="_b05__Introduction_To_The_Neoreaction_-_AnomalyUK__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b06%29%20Neoreaction%20For%20Dummies%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" id="_b06__Neoreaction_For_Dummies_-_Nick_Land__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b07%29%20The%20Reactionary%20Consensus%20%20-%20Nick%20B%20Steves%20%28c00%29%20Title.xhtml" id="_b07__The_Reactionary_Consensus_-_Nick_B_Steves__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b08%29%20Reactionary%20Unity%20-%20AnomalyUK%20%28c00%29%20Title..xhtml" id="_b08__Reactionary_Unity_-_AnomalyUK__c00__Title..xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b09%29%20What%20Unites%20Neoreaction%20-%20Jim%20%28c00%29%20Title.xhtml" id="_b09__What_Unites_Neoreaction_-_Jim__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b10%29%20Trichotomy%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" id="_b10__Trichotomy_-_Nick_Land__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b11%29%20A%20Formalist%20Manifesto%20-%20Mencius%20Moldbug%20%28c00%29%20Title.xhtml" id="_b11__A_Formalist_Manifesto_-_Mencius_Moldbug__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b12%29%20Potential%20Approximations%20Of%20Neoreaction%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b12__Potential_Approximations_Of_Neoreaction_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b13%29%20Oaks%20vs%20Sandboxes%20-%20MichaelAnissimov%20%28c00%29%20Title.xhtml" id="_b13__Oaks_vs_Sandboxes_-_MichaelAnissimov__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b14%29%20Premises%20Of%20Neoreactionary%20Thought%20-%20Michael%20Anissimov%20%28c00%29%20Title.xhtml" id="_b14__Premises_Of_Neoreactionary_Thought_-_Michael_Anissimov__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28g03%29.xhtml" id="_g03_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b05%29%20Introduction%20To%20The%20Neoreaction%20-%20AnomalyUK%20%28c01%29.xhtml" id="_b05__Introduction_To_The_Neoreaction_-_AnomalyUK__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b06%29%20Neoreaction%20For%20Dummies%20-%20Nick%20Land%20%28c01%29.xhtml" id="_b06__Neoreaction_For_Dummies_-_Nick_Land__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b07%29%20The%20Reactionary%20Consensus%20%20-%20Nick%20B%20Steves%20%28c01%29.xhtml" id="_b07__The_Reactionary_Consensus_-_Nick_B_Steves__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b08%29%20Reactionary%20Unity%20-%20AnomalyUK%20%28c01%29.xhtml" id="_b08__Reactionary_Unity_-_AnomalyUK__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b09%29%20What%20Unites%20Neoreaction%20-%20Jim%20%28c01%29.xhtml" id="_b09__What_Unites_Neoreaction_-_Jim__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b10%29%20Trichotomy%20-%20Nick%20Land%20%28c01%29.xhtml" id="_b10__Trichotomy_-_Nick_Land__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b11%29%20A%20Formalist%20Manifesto%20-%20Mencius%20Moldbug%20%28c01%29.xhtml" id="_b11__A_Formalist_Manifesto_-_Mencius_Moldbug__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b12%29%20Potential%20Approximations%20Of%20Neoreaction%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b12__Potential_Approximations_Of_Neoreaction_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b13%29%20Oaks%20vs%20Sandboxes%20-%20MichaelAnissimov%20%28c01%29.xhtml" id="_b13__Oaks_vs_Sandboxes_-_MichaelAnissimov__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b14%29%20Premises%20Of%20Neoreactionary%20Thought%20-%20Michael%20Anissimov%20%28c00%29.xhtml" id="_b14__Premises_Of_Neoreactionary_Thought_-_Michael_Anissimov__c00_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c01%29%20Part%201.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c01__Part_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c02%29%20Part%202.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c02__Part_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c03%29%20Part%203.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c03__Part_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c05%29%20Part%205.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c05__Part_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c04%29%20Part%204.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c04__Part_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c07%29%20Part%207.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c07__Part_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b15%29%20How%20to%20Look%20at%20the%20World%20Like%20a%20Neoreactionary%20-%20Bryce%20Laliberte%20%28c06%29%20Part%206.xhtml" id="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c06__Part_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c02%29%20Part%201.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c02__Part_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c01%29%20Intro.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c01__Intro.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c03%29%20Part%202.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c03__Part_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c05%29%20Part%204.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c05__Part_4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c04%29%20Part%203.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c04__Part_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c07%29%20Part%206.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c07__Part_6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c08%29%20Part%207.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c08__Part_7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c09%29%20Part%208.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c09__Part_8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c11%29%20Part%2010.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c11__Part_10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c12%29%20Part%2011.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c12__Part_11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c06%29%20Part%205.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c06__Part_5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c10%29%20Part%209.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c10__Part_9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c13%29%20Part%2012.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c13__Part_12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c14%29%20Part%2013.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c14__Part_13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c15%29%20Part%2014.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c15__Part_14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b03%29%20Reactionary%20Philosophy%20In%20An%20Enormus%20Planet%20Sized%20Nutshell%20-%20Scott%20Alexander%20%28c16%29%20Outro.xhtml" id="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c16__Outro.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b16%29%20An%20Introduction%20to%20Group%20Dynamics%20-%20nydwracu%20%28c00%29%20Title.xhtml" id="_b16__An_Introduction_to_Group_Dynamics_-_nydwracu__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b16%29%20An%20Introduction%20to%20Group%20Dynamics%20-%20nydwracu%20%28c01%29.xhtml" id="_b16__An_Introduction_to_Group_Dynamics_-_nydwracu__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-bold.ttf" id="philosopher-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosoher.ttf" id="philosoher.ttf" media-type="application/x-font-ttf" />
+    <item href="Text/%28b17%29%20Material%20Conditions%2C%20Mass%20Psychology%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" id="_b17__Material_Conditions__Mass_Psychology_-_Amos___Gromar__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b17%29%20Material%20Conditions%2C%20Mass%20Psychology%20-%20Amos%20%26%20Gromar%20%28c01%29.xhtml" id="_b17__Material_Conditions__Mass_Psychology_-_Amos___Gromar__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b18%29%20How%20Democracy%20Fails%20Brechts%20Solution%20-%20ThedenTV%20%28c00%29%20Title.xhtml" id="_b18__How_Democracy_Fails_Brechts_Solution_-_ThedenTV__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b18-democrats.png" id="b18-democrats.png" media-type="image/png" />
+    <item href="Text/%28b18%29%20How%20Democracy%20Fails%20Brechts%20Solution%20-%20ThedenTV%20%28c01%29.xhtml" id="_b18__How_Democracy_Fails_Brechts_Solution_-_ThedenTV__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b19%29%20The%20Part%20is%20Subordinate%20to%20the%20Whole%20Female%20Outliers%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" id="_b19__The_Part_is_Subordinate_to_the_Whole_Female_Outliers_-_Amos___Gromar__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b19%29%20The%20Part%20is%20Subordinate%20to%20the%20Whole%20Female%20Outliers%20-%20Amos%20%26%20Gromar%20%28c01%29.xhtml" id="_b19__The_Part_is_Subordinate_to_the_Whole_Female_Outliers_-_Amos___Gromar__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b20%29%20Language%20is%20a%20Badge%20of%20Tribal%20Membership%20-%20Spandrell%20%28c00%29%20Title.xhtml" id="_b20__Language_is_a_Badge_of_Tribal_Membership_-_Spandrell__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b20%29%20Language%20is%20a%20Badge%20of%20Tribal%20Membership%20-%20Spandrell%20%28c01%29.xhtml" id="_b20__Language_is_a_Badge_of_Tribal_Membership_-_Spandrell__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b20-chinese-dialects.jpg" id="b20-chinese-dialects.jpg" media-type="image/jpeg" />
+    <item href="Images/b21-diversity.jpg" id="b21-diversity.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b21%29%20Three%20Reasons%20Diversity%20Isnt%20Working%20-%20ThedenTv%20%28c00%29%20Title.xhtml" id="_b21__Three_Reasons_Diversity_Isnt_Working_-_ThedenTv__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b21%29%20Three%20Reasons%20Diversity%20Isnt%20Working%20-%20ThedenTv%20%28c01%29.xhtml" id="_b21__Three_Reasons_Diversity_Isnt_Working_-_ThedenTv__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b21-diversity-vs-soc.png" id="b21-diversity-vs-soc.png" media-type="image/png" />
+    <item href="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c00%29%20Title.xhtml" id="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c01%29%20Part%201.xhtml" id="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c01__Part_1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c02%29%20Part%202.xhtml" id="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c02__Part_2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b22%29%20Post%20Modernisms%20Final%20Causes%20and%20Pyrrhic%20Victory%20-%20iParallax%20%28c03%29%20Part%203.xhtml" id="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c03__Part_3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b23%29%20Making%20Neoreaction%20Simple%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" id="_b23__Making_Neoreaction_Simple_-_Amos___Gromar__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b23%29%20Making%20Neoreaction%20Simple%20-%20Amos%20%26%20Gromar%20%28c01%29.xhtml" id="_b23__Making_Neoreaction_Simple_-_Amos___Gromar__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b24-benjamincrump.jpg" id="b24-benjamincrump.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b24%29%20The%20Cathedral%20and%20the%20Bizzarre%20Benjamin%20Crumps%20Manufactured%20Consent%20-%20ThedenTV%20%28c00%29%20Title.xhtml" id="_b24__The_Cathedral_and_the_Bizzarre_Benjamin_Crumps_Manufactured_Consent_-_ThedenTV__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b24%29%20The%20Cathedral%20and%20the%20Bizzarre%20Benjamin%20Crumps%20Manufactured%20Consent%20-%20ThedenTV%20%28c01%29.xhtml" id="_b24__The_Cathedral_and_the_Bizzarre_Benjamin_Crumps_Manufactured_Consent_-_ThedenTV__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b24-tweet-1.png" id="b24-tweet-1.png" media-type="image/png" />
+    <item href="Images/b24-tweet-2.png" id="b24-tweet-2.png" media-type="image/png" />
+    <item href="Text/%28b25%29%20A%20Decent%20Life%20For%20Decent%20People%20-%20Handles%20Haus%20%28c00%29%20Title.xhtml" id="_b25__A_Decent_Life_For_Decent_People_-_Handles_Haus__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b25%29%20A%20Decent%20Life%20For%20Decent%20People%20-%20Handles%20Haus%20%28c01%29.xhtml" id="_b25__A_Decent_Life_For_Decent_People_-_Handles_Haus__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b26%29%20Conservatism%20and%20the%20Cognitive%20Miser%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" id="_b26__Conservatism_and_the_Cognitive_Miser_-_The_Social_Pathologist__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b26%29%20Conservatism%20and%20the%20Cognitive%20Miser%20-%20The%20Social%20Pathologist%20%28c01%29.xhtml" id="_b26__Conservatism_and_the_Cognitive_Miser_-_The_Social_Pathologist__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b27%29%20The%20Biological%20Vote%20Its%20Implications%20For%20Conservatism%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" id="_b27__The_Biological_Vote_Its_Implications_For_Conservatism_-_The_Social_Pathologist__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b27%29%20The%20Biological%20Vote%20Its%20Implications%20For%20Conservatism%20-%20The%20Social%20Pathologist%20%28c01%29.xhtml" id="_b27__The_Biological_Vote_Its_Implications_For_Conservatism_-_The_Social_Pathologist__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b28%29%20Clausewitz%20Lenin%20Robin%20Dunbar%20-%20Spandrell%20%28c00%29%20Title.xhtml" id="_b28__Clausewitz_Lenin_Robin_Dunbar_-_Spandrell__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b28%29%20Clausewitz%20Lenin%20Robin%20Dunbar%20-%20Spandrell%20%28c01%29.xhtml" id="_b28__Clausewitz_Lenin_Robin_Dunbar_-_Spandrell__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b28-bill-ackman-counterblasts-starbucks-ceo-howard-schultz.jpg" id="b28-bill-ackman-counterblasts-starbucks-ceo-howard-schultz.jpg" media-type="image/jpeg" />
+    <item href="Images/b28-cecilia-malmstrom.jpg" id="b28-cecilia-malmstrom.jpg" media-type="image/jpeg" />
+    <item href="Images/b28-gates-reddit.jpg" id="b28-gates-reddit.jpg" media-type="image/jpeg" />
+    <item href="Images/b28-we-learned-about-jeff-reading-these-fantastic-articles-and-you-should-too.jpg" id="b28-we-learned-about-jeff-reading-these-fantastic-articles-and-you-should-too.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b29%29%20The%20Monkey%20Trap%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" id="_b29__The_Monkey_Trap_-_Nick_Land__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b29%29%20The%20Monkey%20Trap%20-%20Nick%20Land%20%28c01%29.xhtml" id="_b29__The_Monkey_Trap_-_Nick_Land__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b30%29%20Screwed%20Since%201913%20-%20ThedenTV%20%28c00%29%20Title.xhtml" id="_b30__Screwed_Since_1913_-_ThedenTV__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b30%29%20Screwed%20Since%201913%20-%20ThedenTV%20%28c01%29.xhtml" id="_b30__Screwed_Since_1913_-_ThedenTV__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b30-1913-marching.jpg" id="b30-1913-marching.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b31%29%20Creeping%20Horror%20-%20Free%20Northerner%20%28c00%29%20Title.xhtml" id="_b31__Creeping_Horror_-_Free_Northerner__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b31%29%20Creeping%20Horror%20-%20Free%20Northerner%20%28c01%29.xhtml" id="_b31__Creeping_Horror_-_Free_Northerner__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28g04%29.xhtml" id="_g04_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b32%29%20Myth%20Rhetoric%20and%20the%20Dark%20Enlightenment%20-%20Habitable%20Worlds%20%28c00%29%20Title.xhtml" id="_b32__Myth_Rhetoric_and_the_Dark_Enlightenment_-_Habitable_Worlds__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b32%29%20Myth%20Rhetoric%20and%20the%20Dark%20Enlightenment%20-%20Habitable%20Worlds%20%28c01%29.xhtml" id="_b32__Myth_Rhetoric_and_the_Dark_Enlightenment_-_Habitable_Worlds__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b33%29%20Stability%20as%20a%20Virtue%20of%20Civilization%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b33__Stability_as_a_Virtue_of_Civilization_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b33%29%20Stability%20as%20a%20Virtue%20of%20Civilization%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b33__Stability_as_a_Virtue_of_Civilization_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b34%29%20Reconciling%20Transhumanism%20and%20Neoreaction%20-%20Michael%20Anissimov%20%28c00%29%20Title.xhtml" id="_b34__Reconciling_Transhumanism_and_Neoreaction_-_Michael_Anissimov__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b34%29%20Reconciling%20Transhumanism%20and%20Neoreaction%20-%20Michael%20Anissimov%20%28c01%29.xhtml" id="_b34__Reconciling_Transhumanism_and_Neoreaction_-_Michael_Anissimov__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b35%29%20Inaccessible%20is%20Ungovernable%20-%20Handles%20Haus%20%28c00%29%20Title.xhtml" id="_b35__Inaccessible_is_Ungovernable_-_Handles_Haus__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b35%29%20Inaccessible%20is%20Ungovernable%20-%20Handles%20Haus%20%28c00%29.xhtml" id="_b35__Inaccessible_is_Ungovernable_-_Handles_Haus__c00_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/author-banner-anarcho-papist.jpg" id="author-banner-anarcho-papist.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-handles-haus.jpg" id="author-banner-handles-haus.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-more-right.png" id="author-banner-more-right.png" media-type="image/png" />
+    <item href="Images/author-banner-amos-and-gromar.jpg" id="author-banner-amos-and-gromar.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-free-northerner.jpg" id="author-banner-free-northerner.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-iparallax.jpg" id="author-banner-iparallax.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-nick-b-steves.jpg" id="author-banner-nick-b-steves.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-theden-tv.jpg" id="author-banner-theden-tv.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-the-social-pathologist.jpg" id="author-banner-the-social-pathologist.jpg" media-type="image/jpeg" />
+    <item href="Images/gouldings-comet.jpg" id="gouldings-comet.jpg" media-type="image/jpeg" />
+    <item href="Images/nick-steves-spandrellian-trichotomy.png" id="nick-steves-spandrellian-trichotomy.png" media-type="image/png" />
+    <item href="Images/scharlachs-visualizing-neoreaction.png" id="scharlachs-visualizing-neoreaction.png" media-type="image/png" />
+    <item href="Images/card-grerp.jpg" id="card-grerp.jpg" media-type="image/jpeg" />
+    <item href="Images/card-sunshine-mary.jpg" id="card-sunshine-mary.jpg" media-type="image/jpeg" />
+    <item href="Images/card-lawrence-auster.jpg" id="card-lawrence-auster.jpg" media-type="image/jpeg" />
+    <item href="Images/card-nick-steves.jpg" id="card-nick-steves.jpg" media-type="image/jpeg" />
+    <item href="Images/card-frost-v2.jpg" id="card-frost-v2.jpg" media-type="image/jpeg" />
+    <item href="Images/card-free-northerner.jpg" id="card-free-northerner.jpg" media-type="image/jpeg" />
+    <item href="Images/card-jack-donovan-v2.jpg" id="card-jack-donovan-v2.jpg" media-type="image/jpeg" />
+    <item href="Images/card-martin.jpg" id="card-martin.jpg" media-type="image/jpeg" />
+    <item href="Images/card-kevin-macdonald.jpg" id="card-kevin-macdonald.jpg" media-type="image/jpeg" />
+    <item href="Images/card-alex-kurtagic.jpg" id="card-alex-kurtagic.jpg" media-type="image/jpeg" />
+    <item href="Images/card-jared-taylor.jpg" id="card-jared-taylor.jpg" media-type="image/jpeg" />
+    <item href="Images/card-richard-spencer.jpg" id="card-richard-spencer.jpg" media-type="image/jpeg" />
+    <item href="Images/card-john-derbyshire.jpg" id="card-john-derbyshire.jpg" media-type="image/jpeg" />
+    <item href="Images/card-occams-razor.jpg" id="card-occams-razor.jpg" media-type="image/jpeg" />
+    <item href="Images/card-west-hunter.jpg" id="card-west-hunter.jpg" media-type="image/jpeg" />
+    <item href="Images/card-jason-malloy.jpg" id="card-jason-malloy.jpg" media-type="image/jpeg" />
+    <item href="Images/card-dennis-mangan.jpg" id="card-dennis-mangan.jpg" media-type="image/jpeg" />
+    <item href="Images/card-steve-sailer.jpg" id="card-steve-sailer.jpg" media-type="image/jpeg" />
+    <item href="Images/card-hbd-chick.jpg" id="card-hbd-chick.jpg" media-type="image/jpeg" />
+    <item href="Images/card-eliezer-yudkowsky.jpg" id="card-eliezer-yudkowsky.jpg" media-type="image/jpeg" />
+    <item href="Images/card-more-right.jpg" id="card-more-right.jpg" media-type="image/jpeg" />
+    <item href="Images/card-michael-anissimov.jpg" id="card-michael-anissimov.jpg" media-type="image/jpeg" />
+    <item href="Images/card-nick-land-v2.jpg" id="card-nick-land-v2.jpg" media-type="image/jpeg" />
+    <item href="Images/card-scharlach.jpg" id="card-scharlach.jpg" media-type="image/jpeg" />
+    <item href="Images/card-theden-v2.jpg" id="card-theden-v2.jpg" media-type="image/jpeg" />
+    <item href="Images/card-handle-v2.jpg" id="card-handle-v2.jpg" media-type="image/jpeg" />
+    <item href="Images/card-spandrell.jpg" id="card-spandrell.jpg" media-type="image/jpeg" />
+    <item href="Images/card-wesley-morganston.jpg" id="card-wesley-morganston.jpg" media-type="image/jpeg" />
+    <item href="Images/card-james-donald.jpg" id="card-james-donald.jpg" media-type="image/jpeg" />
+    <item href="Images/card-foseti.jpg" id="card-foseti.jpg" media-type="image/jpeg" />
+    <item href="Images/card-mencius-moldbug-v3.jpg" id="card-mencius-moldbug-v3.jpg" media-type="image/jpeg" />
+    <item href="Images/b35-regulations.jpg" id="b35-regulations.jpg" media-type="image/jpeg" />
+    <item href="Images/b36-dna.jpg" id="b36-dna.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b36%29%20Chinese%20Eugenics%20and%20Why%20Losers%20Dont%20Win%20-%20ThedenTV%20%28c00%29%20Title.xhtml" id="_b36__Chinese_Eugenics_and_Why_Losers_Dont_Win_-_ThedenTV__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b36%29%20Chinese%20Eugenics%20and%20Why%20Losers%20Dont%20Win%20-%20ThedenTV%20%28c01%29.xhtml" id="_b36__Chinese_Eugenics_and_Why_Losers_Dont_Win_-_ThedenTV__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b37%29%20Monarchy%20-%20Spandrell%20%28c00%29%20Title.xhtml" id="_b37__Monarchy_-_Spandrell__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b37%29%20Monarchy%20-%20Spandrell%20%28c01%29.xhtml" id="_b37__Monarchy_-_Spandrell__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b38%29%20Burnout%20-%20Nydwracu%20%28c00%29%20Title.xhtml" id="_b38__Burnout_-_Nydwracu__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b38%29%20Burnout%20-%20Nydwracu%20%28c01%29.xhtml" id="_b38__Burnout_-_Nydwracu__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b39%29%20The%20Path%20of%20the%20Legionnaire%20The%20Power%20of%20Myth%20-%20The%20Legionnaire%20%28c00%29%20Title.xhtml" id="_b39__The_Path_of_the_Legionnaire_The_Power_of_Myth_-_The_Legionnaire__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b39%29%20The%20Path%20of%20the%20Legionnaire%20The%20Power%20of%20Myth%20-%20The%20Legionnaire%20%28c01%29.xhtml" id="_b39__The_Path_of_the_Legionnaire_The_Power_of_Myth_-_The_Legionnaire__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b39-ic612100.png" id="b39-ic612100.png" media-type="image/png" />
+    <item href="Text/%28b40%29%20The%20Cult%20of%20Neoreaction%20-%20Samo%20Burja%20%28c00%29%20Title.xhtml" id="_b40__The_Cult_of_Neoreaction_-_Samo_Burja__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b40%29%20The%20Cult%20of%20Neoreaction%20-%20Samo%20Burja%20%28c01%29.xhtml" id="_b40__The_Cult_of_Neoreaction_-_Samo_Burja__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b41%29%20Neoreaction%20liberalism%20conservatism%20reject%20the%20isms%20-%20Amos%20%26%20Gromar%20%28c00%29%20Title.xhtml" id="_b41__Neoreaction_liberalism_conservatism_reject_the_isms_-_Amos___Gromar__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b41%29%20Neoreaction%20liberalism%20conservatism%20reject%20the%20isms%20-%20Amos%20%26%20Gromar%20%28c01%29.xhtml" id="_b41__Neoreaction_liberalism_conservatism_reject_the_isms_-_Amos___Gromar__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b42%29%20ur%20Malthusianism%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b42__ur_Malthusianism_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b42%29%20ur%20Malthusianism%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b42__ur_Malthusianism_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28g05%29.xhtml" id="_g05_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b43%29%20Taking%20on%20the%20Cathedral%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" id="_b43__Taking_on_the_Cathedral_-_The_Social_Pathologist__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b43%29%20Taking%20on%20the%20Cathedral%20-%20The%20Social%20Pathologist%20%28c01%29.xhtml" id="_b43__Taking_on_the_Cathedral_-_The_Social_Pathologist__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b43-michael-collins-bicycle.jpg" id="b43-michael-collins-bicycle.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b44%29%20Transhumanism%20and%20Palingenesis%20-%20Michael%20Anissimov%20%28c00%29%20Title.xhtml" id="_b44__Transhumanism_and_Palingenesis_-_Michael_Anissimov__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b44%29%20Transhumanism%20and%20Palingenesis%20-%20Michael%20Anissimov%20%28c01%29.xhtml" id="_b44__Transhumanism_and_Palingenesis_-_Michael_Anissimov__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b45%29%20To%20Light%20a%20fire%20Under%20the%20Ass%20of%20the%20Neoreaction%20-%20Raptros%20%28c00%29%20Title.xhtml" id="_b45__To_Light_a_fire_Under_the_Ass_of_the_Neoreaction_-_Raptros__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b45%29%20To%20Light%20a%20fire%20Under%20the%20Ass%20of%20the%20Neoreaction%20-%20Raptros%20%28c01%29.xhtml" id="_b45__To_Light_a_fire_Under_the_Ass_of_the_Neoreaction_-_Raptros__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b46%29%20Game%20Dark%20Enlightenment%20and%20Reaction%20-%20Jim%20%28c00%29%20Title.xhtml" id="_b46__Game_Dark_Enlightenment_and_Reaction_-_Jim__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b46%29%20Game%20Dark%20Enlightenment%20and%20Reaction%20-%20Jim%20%28c01%29.xhtml" id="_b46__Game_Dark_Enlightenment_and_Reaction_-_Jim__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b47%29%20Cipher%20Ideology%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b47__Cipher_Ideology_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b47%29%20Cipher%20Ideology%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b47__Cipher_Ideology_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b48%29%20The%20Dove%20Sketches%20Beauty%20Scam%20-%20The%20Last%20Psychiatrist%20%28c00%29%20Title.xhtml" id="_b48__The_Dove_Sketches_Beauty_Scam_-_The_Last_Psychiatrist__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b48%29%20The%20Dove%20Sketches%20Beauty%20Scam%20-%20The%20Last%20Psychiatrist%20%28c01%29.xhtml" id="_b48__The_Dove_Sketches_Beauty_Scam_-_The_Last_Psychiatrist__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b48-florence-gray.jpg" id="b48-florence-gray.jpg" media-type="image/jpeg" />
+    <item href="Images/b48-house-of-games.jpg" id="b48-house-of-games.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b49%29%20Real%20Men%20Want%20to%20Drink%20Guinness%20-%20The%20Last%20Psychiatrist%20%28c00%29%20Title.xhtml" id="_b49__Real_Men_Want_to_Drink_Guinness_-_The_Last_Psychiatrist__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b49%29%20Real%20Men%20Want%20to%20Drink%20Guinness%20-%20The%20Last%20Psychiatrist%20%28c01%29.xhtml" id="_b49__Real_Men_Want_to_Drink_Guinness_-_The_Last_Psychiatrist__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b49-ju-on.jpg" id="b49-ju-on.jpg" media-type="image/jpeg" />
+    <item href="Images/b49-kellie-pickler.jpg" id="b49-kellie-pickler.jpg" media-type="image/jpeg" />
+    <item href="Images/b49-guinness.jpg" id="b49-guinness.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b50%29%20A%20Typology%20of%20Magic%20-%20Nydwracu%20%28b00%29%20Title.xhtml" id="_b50__A_Typology_of_Magic_-_Nydwracu__b00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b50%29%20A%20Typology%20of%20Magic%20-%20Nydwracu%20%28b01%29.xhtml" id="_b50__A_Typology_of_Magic_-_Nydwracu__b01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b51%29%20Horrorism%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" id="_b51__Horrorism_-_Nick_Land__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b51%29%20Horrorism%20-%20Nick%20Land%20%28c01%29.xhtml" id="_b51__Horrorism_-_Nick_Land__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b52%29%20Discrimination%20-%20Nick%20Land%20%28c00%29%20Title.xhtml" id="_b52__Discrimination_-_Nick_Land__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b52%29%20Discrimination%20-%20Nick%20Land%20%28c00%29.xhtml" id="_b52__Discrimination_-_Nick_Land__c00_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b53%29%20Orwell%20and%20Newspeak%20-%20The%20Social%20Pathologist%20%28c00%29%20Title.xhtml" id="_b53__Orwell_and_Newspeak_-_The_Social_Pathologist__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b53%29%20Orwell%20and%20Newspeak%20-%20The%20Social%20Pathologist%20%28c01%29.xhtml" id="_b53__Orwell_and_Newspeak_-_The_Social_Pathologist__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b53-newspeak.jpg" id="b53-newspeak.jpg" media-type="image/jpeg" />
+    <item href="Text/%28b54%29%20Wittgenstein%20Ideology%20and%20Signaling%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b54%29%20Wittgenstein%20Ideology%20and%20Signaling%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28g06%29.xhtml" id="_g06_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml" id="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/seal-of-the-dark-enlightenment.jpg" id="seal-of-the-dark-enlightenment.jpg" media-type="image/jpeg" />
+    <item href="Images/heroes-of-the-dark-enlightenment-symbols.jpg" id="heroes-of-the-dark-enlightenment-symbols.jpg" media-type="image/jpeg" />
+    <item href="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c00%29%20Title.xhtml" id="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/glossary.xhtml" id="glossary.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/%28g00%29.xhtml" id="_g00_.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/author-banner-slate-star-codex.png" id="author-banner-slate-star-codex.png" media-type="image/png" />
+    <item href="Images/b04-what-is-neoreaction.jpg" id="b04-what-is-neoreaction.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-anomaly-uk.png" id="author-banner-anomaly-uk.png" media-type="image/png" />
+    <item href="Images/author-banner-spandrell.jpg" id="author-banner-spandrell.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-habitable-worlds.png" id="author-banner-habitable-worlds.png" media-type="image/png" />
+    <item href="Images/author-banner-the-legionnaire.jpg" id="author-banner-the-legionnaire.jpg" media-type="image/jpeg" />
+    <item href="Images/author-banner-radish.jpg" id="author-banner-radish.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title.xhtml" />
+    <itemref idref="TOC.xhtml" />
+    <itemref idref="preface.xhtml" />
+    <itemref idref="_g00_.xhtml" />
+    <itemref idref="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c01_.xhtml" />
+    <itemref idref="_g01_.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c00__Title.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c01__Part_1.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c02__Part_2.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c03__Part_3.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c04__Part_4.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c05__Part_4a.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c06__Part_4b.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c07__Part_4c.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c08__Part_4d.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c09__Part_4e.xhtml" />
+    <itemref idref="_b01__The_Dark_Enlightenment_-_Nick_Land__c10__Part_4f.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c00__Title.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c01__Part_1.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c02__Part_2.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c03__Part_3.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c04__Part_4.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c05__Part_5.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c06__Part_6.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c07__Part_7.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c08__Part_8.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c09__Part_9.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c10__Part_10.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c11__Part_11.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c12__Part_12.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c13__Part_13.xhtml" />
+    <itemref idref="_b02__An_Open_Letter_To_Open_Minded_Progressives_-_Mencius_Moldbug__c14__Part_14.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c00__Title.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c01__Intro.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c02__Part_1.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c03__Part_2.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c04__Part_3.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c05__Part_4.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c06__Part_5.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c07__Part_6.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c08__Part_7.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c09__Part_8.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c10__Part_9.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c11__Part_10.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c12__Part_11.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c13__Part_12.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c14__Part_13.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c15__Part_14.xhtml" />
+    <itemref idref="_b03__Reactionary_Philosophy_In_An_Enormus_Planet_Sized_Nutshell_-_Scott_Alexander__c16__Outro.xhtml" />
+    <itemref idref="_b04__What_Is_Neoreaction_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_g02_.xhtml" />
+    <itemref idref="_b05__Introduction_To_The_Neoreaction_-_AnomalyUK__c00__Title.xhtml" />
+    <itemref idref="_b05__Introduction_To_The_Neoreaction_-_AnomalyUK__c01_.xhtml" />
+    <itemref idref="_b06__Neoreaction_For_Dummies_-_Nick_Land__c00__Title.xhtml" />
+    <itemref idref="_b06__Neoreaction_For_Dummies_-_Nick_Land__c01_.xhtml" />
+    <itemref idref="_b07__The_Reactionary_Consensus_-_Nick_B_Steves__c00__Title.xhtml" />
+    <itemref idref="_b07__The_Reactionary_Consensus_-_Nick_B_Steves__c01_.xhtml" />
+    <itemref idref="_b08__Reactionary_Unity_-_AnomalyUK__c00__Title..xhtml" />
+    <itemref idref="_b08__Reactionary_Unity_-_AnomalyUK__c01_.xhtml" />
+    <itemref idref="_b09__What_Unites_Neoreaction_-_Jim__c00__Title.xhtml" />
+    <itemref idref="_b09__What_Unites_Neoreaction_-_Jim__c01_.xhtml" />
+    <itemref idref="_b10__Trichotomy_-_Nick_Land__c00__Title.xhtml" />
+    <itemref idref="_b10__Trichotomy_-_Nick_Land__c01_.xhtml" />
+    <itemref idref="_b11__A_Formalist_Manifesto_-_Mencius_Moldbug__c00__Title.xhtml" />
+    <itemref idref="_b11__A_Formalist_Manifesto_-_Mencius_Moldbug__c01_.xhtml" />
+    <itemref idref="_b12__Potential_Approximations_Of_Neoreaction_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_b12__Potential_Approximations_Of_Neoreaction_-_Bryce_Laliberte__c01_.xhtml" />
+    <itemref idref="_b13__Oaks_vs_Sandboxes_-_MichaelAnissimov__c00__Title.xhtml" />
+    <itemref idref="_b13__Oaks_vs_Sandboxes_-_MichaelAnissimov__c01_.xhtml" />
+    <itemref idref="_b14__Premises_Of_Neoreactionary_Thought_-_Michael_Anissimov__c00__Title.xhtml" />
+    <itemref idref="_b14__Premises_Of_Neoreactionary_Thought_-_Michael_Anissimov__c00_.xhtml" />
+    <itemref idref="_g03_.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c01__Part_1.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c02__Part_2.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c03__Part_3.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c04__Part_4.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c05__Part_5.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c06__Part_6.xhtml" />
+    <itemref idref="_b15__How_to_Look_at_the_World_Like_a_Neoreactionary_-_Bryce_Laliberte__c07__Part_7.xhtml" />
+    <itemref idref="_b16__An_Introduction_to_Group_Dynamics_-_nydwracu__c00__Title.xhtml" />
+    <itemref idref="_b16__An_Introduction_to_Group_Dynamics_-_nydwracu__c01_.xhtml" />
+    <itemref idref="_b17__Material_Conditions__Mass_Psychology_-_Amos___Gromar__c00__Title.xhtml" />
+    <itemref idref="_b17__Material_Conditions__Mass_Psychology_-_Amos___Gromar__c01_.xhtml" />
+    <itemref idref="_b18__How_Democracy_Fails_Brechts_Solution_-_ThedenTV__c00__Title.xhtml" />
+    <itemref idref="_b18__How_Democracy_Fails_Brechts_Solution_-_ThedenTV__c01_.xhtml" />
+    <itemref idref="_b19__The_Part_is_Subordinate_to_the_Whole_Female_Outliers_-_Amos___Gromar__c00__Title.xhtml" />
+    <itemref idref="_b19__The_Part_is_Subordinate_to_the_Whole_Female_Outliers_-_Amos___Gromar__c01_.xhtml" />
+    <itemref idref="_b20__Language_is_a_Badge_of_Tribal_Membership_-_Spandrell__c00__Title.xhtml" />
+    <itemref idref="_b20__Language_is_a_Badge_of_Tribal_Membership_-_Spandrell__c01_.xhtml" />
+    <itemref idref="_b21__Three_Reasons_Diversity_Isnt_Working_-_ThedenTv__c00__Title.xhtml" />
+    <itemref idref="_b21__Three_Reasons_Diversity_Isnt_Working_-_ThedenTv__c01_.xhtml" />
+    <itemref idref="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c00__Title.xhtml" />
+    <itemref idref="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c01__Part_1.xhtml" />
+    <itemref idref="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c02__Part_2.xhtml" />
+    <itemref idref="_b22__Post_Modernisms_Final_Causes_and_Pyrrhic_Victory_-_iParallax__c03__Part_3.xhtml" />
+    <itemref idref="_b23__Making_Neoreaction_Simple_-_Amos___Gromar__c00__Title.xhtml" />
+    <itemref idref="_b23__Making_Neoreaction_Simple_-_Amos___Gromar__c01_.xhtml" />
+    <itemref idref="_b24__The_Cathedral_and_the_Bizzarre_Benjamin_Crumps_Manufactured_Consent_-_ThedenTV__c00__Title.xhtml" />
+    <itemref idref="_b24__The_Cathedral_and_the_Bizzarre_Benjamin_Crumps_Manufactured_Consent_-_ThedenTV__c01_.xhtml" />
+    <itemref idref="_b25__A_Decent_Life_For_Decent_People_-_Handles_Haus__c00__Title.xhtml" />
+    <itemref idref="_b25__A_Decent_Life_For_Decent_People_-_Handles_Haus__c01_.xhtml" />
+    <itemref idref="_b26__Conservatism_and_the_Cognitive_Miser_-_The_Social_Pathologist__c00__Title.xhtml" />
+    <itemref idref="_b26__Conservatism_and_the_Cognitive_Miser_-_The_Social_Pathologist__c01_.xhtml" />
+    <itemref idref="_b27__The_Biological_Vote_Its_Implications_For_Conservatism_-_The_Social_Pathologist__c00__Title.xhtml" />
+    <itemref idref="_b27__The_Biological_Vote_Its_Implications_For_Conservatism_-_The_Social_Pathologist__c01_.xhtml" />
+    <itemref idref="_b28__Clausewitz_Lenin_Robin_Dunbar_-_Spandrell__c00__Title.xhtml" />
+    <itemref idref="_b28__Clausewitz_Lenin_Robin_Dunbar_-_Spandrell__c01_.xhtml" />
+    <itemref idref="_b29__The_Monkey_Trap_-_Nick_Land__c00__Title.xhtml" />
+    <itemref idref="_b29__The_Monkey_Trap_-_Nick_Land__c01_.xhtml" />
+    <itemref idref="_b30__Screwed_Since_1913_-_ThedenTV__c00__Title.xhtml" />
+    <itemref idref="_b30__Screwed_Since_1913_-_ThedenTV__c01_.xhtml" />
+    <itemref idref="_b31__Creeping_Horror_-_Free_Northerner__c00__Title.xhtml" />
+    <itemref idref="_b31__Creeping_Horror_-_Free_Northerner__c01_.xhtml" />
+    <itemref idref="_g04_.xhtml" />
+    <itemref idref="_b32__Myth_Rhetoric_and_the_Dark_Enlightenment_-_Habitable_Worlds__c00__Title.xhtml" />
+    <itemref idref="_b32__Myth_Rhetoric_and_the_Dark_Enlightenment_-_Habitable_Worlds__c01_.xhtml" />
+    <itemref idref="_b33__Stability_as_a_Virtue_of_Civilization_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_b33__Stability_as_a_Virtue_of_Civilization_-_Bryce_Laliberte__c01_.xhtml" />
+    <itemref idref="_b34__Reconciling_Transhumanism_and_Neoreaction_-_Michael_Anissimov__c00__Title.xhtml" />
+    <itemref idref="_b34__Reconciling_Transhumanism_and_Neoreaction_-_Michael_Anissimov__c01_.xhtml" />
+    <itemref idref="_b35__Inaccessible_is_Ungovernable_-_Handles_Haus__c00__Title.xhtml" />
+    <itemref idref="_b35__Inaccessible_is_Ungovernable_-_Handles_Haus__c00_.xhtml" />
+    <itemref idref="_b36__Chinese_Eugenics_and_Why_Losers_Dont_Win_-_ThedenTV__c00__Title.xhtml" />
+    <itemref idref="_b36__Chinese_Eugenics_and_Why_Losers_Dont_Win_-_ThedenTV__c01_.xhtml" />
+    <itemref idref="_b37__Monarchy_-_Spandrell__c00__Title.xhtml" />
+    <itemref idref="_b37__Monarchy_-_Spandrell__c01_.xhtml" />
+    <itemref idref="_b38__Burnout_-_Nydwracu__c00__Title.xhtml" />
+    <itemref idref="_b38__Burnout_-_Nydwracu__c01_.xhtml" />
+    <itemref idref="_b39__The_Path_of_the_Legionnaire_The_Power_of_Myth_-_The_Legionnaire__c00__Title.xhtml" />
+    <itemref idref="_b39__The_Path_of_the_Legionnaire_The_Power_of_Myth_-_The_Legionnaire__c01_.xhtml" />
+    <itemref idref="_b40__The_Cult_of_Neoreaction_-_Samo_Burja__c00__Title.xhtml" />
+    <itemref idref="_b40__The_Cult_of_Neoreaction_-_Samo_Burja__c01_.xhtml" />
+    <itemref idref="_b41__Neoreaction_liberalism_conservatism_reject_the_isms_-_Amos___Gromar__c00__Title.xhtml" />
+    <itemref idref="_b41__Neoreaction_liberalism_conservatism_reject_the_isms_-_Amos___Gromar__c01_.xhtml" />
+    <itemref idref="_b42__ur_Malthusianism_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_b42__ur_Malthusianism_-_Bryce_Laliberte__c01_.xhtml" />
+    <itemref idref="_g05_.xhtml" />
+    <itemref idref="_b43__Taking_on_the_Cathedral_-_The_Social_Pathologist__c00__Title.xhtml" />
+    <itemref idref="_b43__Taking_on_the_Cathedral_-_The_Social_Pathologist__c01_.xhtml" />
+    <itemref idref="_b44__Transhumanism_and_Palingenesis_-_Michael_Anissimov__c00__Title.xhtml" />
+    <itemref idref="_b44__Transhumanism_and_Palingenesis_-_Michael_Anissimov__c01_.xhtml" />
+    <itemref idref="_b45__To_Light_a_fire_Under_the_Ass_of_the_Neoreaction_-_Raptros__c00__Title.xhtml" />
+    <itemref idref="_b45__To_Light_a_fire_Under_the_Ass_of_the_Neoreaction_-_Raptros__c01_.xhtml" />
+    <itemref idref="_b46__Game_Dark_Enlightenment_and_Reaction_-_Jim__c00__Title.xhtml" />
+    <itemref idref="_b46__Game_Dark_Enlightenment_and_Reaction_-_Jim__c01_.xhtml" />
+    <itemref idref="_b47__Cipher_Ideology_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_b47__Cipher_Ideology_-_Bryce_Laliberte__c01_.xhtml" />
+    <itemref idref="_b48__The_Dove_Sketches_Beauty_Scam_-_The_Last_Psychiatrist__c00__Title.xhtml" />
+    <itemref idref="_b48__The_Dove_Sketches_Beauty_Scam_-_The_Last_Psychiatrist__c01_.xhtml" />
+    <itemref idref="_b49__Real_Men_Want_to_Drink_Guinness_-_The_Last_Psychiatrist__c00__Title.xhtml" />
+    <itemref idref="_b49__Real_Men_Want_to_Drink_Guinness_-_The_Last_Psychiatrist__c01_.xhtml" />
+    <itemref idref="_b50__A_Typology_of_Magic_-_Nydwracu__b00__Title.xhtml" />
+    <itemref idref="_b50__A_Typology_of_Magic_-_Nydwracu__b01_.xhtml" />
+    <itemref idref="_b51__Horrorism_-_Nick_Land__c00__Title.xhtml" />
+    <itemref idref="_b51__Horrorism_-_Nick_Land__c01_.xhtml" />
+    <itemref idref="_b52__Discrimination_-_Nick_Land__c00__Title.xhtml" />
+    <itemref idref="_b52__Discrimination_-_Nick_Land__c00_.xhtml" />
+    <itemref idref="_b53__Orwell_and_Newspeak_-_The_Social_Pathologist__c00__Title.xhtml" />
+    <itemref idref="_b53__Orwell_and_Newspeak_-_The_Social_Pathologist__c01_.xhtml" />
+    <itemref idref="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c00__Title.xhtml" />
+    <itemref idref="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c01_.xhtml" />
+    <itemref idref="_g06_.xhtml" />
+    <itemref idref="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c00__Title.xhtml" />
+    <itemref idref="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c01_.xhtml" />
+    <itemref idref="glossary.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc" />
+    <reference href="Text/title.xhtml" title="Title Page" type="title-page" />
+    <reference href="Text/glossary.xhtml" title="Glossary" type="glossary" />
+    <reference href="Text/preface.xhtml" title="Preface" type="preface" />
+    <reference href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" title="Text" type="text" />
+  </guide>
+</package>
