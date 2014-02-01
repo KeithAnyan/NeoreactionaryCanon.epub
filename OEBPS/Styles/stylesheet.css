@@ -105,14 +105,14 @@ ul {
 }
 
 @font-face {
-    font-family: 'Philosopher ;
+    font-family: 'Philosopher';
     font-weight: normal;
     font-style: italic;
     src: url('../Fonts/philosopher-italic.ttf');
 }
 
 @font-face {
-    font-family: 'Philosopher ;
+    font-family: 'Philosopher';
     font-weight: bold;
     font-style: italic;
     src: url('../Fonts/philosopher-bold-italic.ttf');

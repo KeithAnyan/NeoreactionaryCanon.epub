@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:d95c9090-24e3-4a53-9b20-20be9dc917fb</dc:identifier>
-    <dc:title>Neoreactionary Canon (v3)</dc:title>
+    <dc:title>Neoreactionary Canon</dc:title>
     <dc:creator opf:role="aut">Various</dc:creator>
     <dc:language>en</dc:language>
     <dc:date opf:event="modification">2014-01-30</dc:date>
