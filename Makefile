@@ -1,4 +1,4 @@
-ALL : NeoreactionaryCanon.epub NeoreactionaryCanon.mobi
+ALL : NeoreactionaryCanon.epub NeoreactionaryCanon.mobi NeoreactionaryCanon.pdf
 
 NeoreactionaryCanon.epub : epub
 	rm -f NeoreactionaryCanon.epub
@@ -8,6 +8,10 @@ NeoreactionaryCanon.epub : epub
 NeoreactionaryCanon.mobi : NeoreactionaryCanon.epub
 	rm -f NeoreactionaryCanon.mobi
 	ebook-convert NeoreactionaryCanon.epub NeoreactionaryCanon.mobi
+
+NeoreactionaryCanon.pdf : NeoreactionaryCanon.epub
+	rm -f NeoreactionaryCanon.pdf
+	ebook-convert NeoreactionaryCanon.epub NeoreactionaryCanon.pdf --embed-all-fonts --margin-left 24 --margin-top 24 --margin-right 24 --margin-bottom 24 --minimum-line-height 160
 
 epub : mimetype META-INF/container.xml
 
