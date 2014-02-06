@@ -14,7 +14,7 @@
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
       <navLabel>
-        <text>Neoreactionary Canon</text>
+        <text>Title</text>
       </navLabel>
       <content src="Text/title.xhtml" />
     </navPoint>
@@ -31,13 +31,13 @@
       <content src="Text/%28g00%29.xhtml" />
       <navPoint id="navPoint-4" playOrder="4">
         <navLabel>
-          <text>Neoreactionary Canon</text>
+          <text>Neoreactionary Canon by Bryce Laliberte</text>
         </navLabel>
         <content src="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
       <navPoint id="navPoint-5" playOrder="5">
         <navLabel>
-          <text>Neoreactionary Canon</text>
+          <text>Neoreactionary Canon by Michael Anissimov</text>
         </navLabel>
         <content src="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Michael%20Anissimov%20%28c02%29%20Title.xhtml" />
       </navPoint>
@@ -695,72 +695,6 @@
         </navLabel>
         <content src="Text/%28b54%29%20Wittgenstein%20Ideology%20and%20Signaling%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" />
       </navPoint>
-    </navPoint>
-    <navPoint id="navPoint-115" playOrder="115">
-      <navLabel>
-        <text>Appendices</text>
-      </navLabel>
-      <content src="Text/%28g06%29.xhtml" />
-      <navPoint id="navPoint-116" playOrder="116">
-        <navLabel>
-          <text>Heroes of the Dark Enlightenment</text>
-        </navLabel>
-        <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c00%29%20Title.xhtml" />
-        <navPoint id="navPoint-117" playOrder="117">
-          <navLabel>
-            <text>A Brief History of Reactionary Taxonomy</text>
-          </navLabel>
-          <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml" />
-        </navPoint>
-        <navPoint id="navPoint-118" playOrder="118">
-          <navLabel>
-            <text>Formalists</text>
-          </navLabel>
-          <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_1" />
-        </navPoint>
-        <navPoint id="navPoint-119" playOrder="119">
-          <navLabel>
-            <text>Futurists</text>
-          </navLabel>
-          <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_2" />
-        </navPoint>
-        <navPoint id="navPoint-120" playOrder="120">
-          <navLabel>
-            <text>Scientists</text>
-          </navLabel>
-          <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_3" />
-        </navPoint>
-        <navPoint id="navPoint-121" playOrder="121">
-          <navLabel>
-            <text>Racialists</text>
-          </navLabel>
-          <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_4" />
-        </navPoint>
-        <navPoint id="navPoint-122" playOrder="122">
-          <navLabel>
-            <text>Masculinists</text>
-          </navLabel>
-          <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_5" />
-        </navPoint>
-        <navPoint id="navPoint-123" playOrder="123">
-          <navLabel>
-            <text>Traditionalists</text>
-          </navLabel>
-          <content src="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml#sigil_toc_id_6" />
-        </navPoint>
-      </navPoint>
-    </navPoint>
-    <navPoint id="navPoint-124" playOrder="124">
-      <navLabel>
-        <text>Books</text>
-      </navLabel>
-      <content src="Text/books.xhtml" />
-    </navPoint>
-    <navPoint id="navPoint-125" playOrder="125">
-      <navLabel>
-        <text>Glossary</text>
-      </navLabel>
-      <content src="Text/glossary.xhtml" />
     </navPoint>
   </navMap>
 </ncx>

@@ -5,7 +5,7 @@
     <dc:title>Neoreactionary Canon</dc:title>
     <dc:creator opf:role="aut">Various</dc:creator>
     <dc:language>en</dc:language>
-    <dc:date opf:event="modification">2014-02-01</dc:date>
+    <dc:date opf:event="modification">2014-02-05</dc:date>
     <dc:contributor opf:role="aut">Nick Land</dc:contributor>
     <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
     <dc:contributor opf:role="aut">Scott Alexander</dc:contributor>
@@ -188,37 +188,6 @@
     <item href="Images/gouldings-comet.jpg" id="gouldings-comet.jpg" media-type="image/jpeg" />
     <item href="Images/nick-steves-spandrellian-trichotomy.png" id="nick-steves-spandrellian-trichotomy.png" media-type="image/png" />
     <item href="Images/scharlachs-visualizing-neoreaction.png" id="scharlachs-visualizing-neoreaction.png" media-type="image/png" />
-    <item href="Images/card-grerp.jpg" id="card-grerp.jpg" media-type="image/jpeg" />
-    <item href="Images/card-sunshine-mary.jpg" id="card-sunshine-mary.jpg" media-type="image/jpeg" />
-    <item href="Images/card-lawrence-auster.jpg" id="card-lawrence-auster.jpg" media-type="image/jpeg" />
-    <item href="Images/card-nick-steves.jpg" id="card-nick-steves.jpg" media-type="image/jpeg" />
-    <item href="Images/card-frost-v2.jpg" id="card-frost-v2.jpg" media-type="image/jpeg" />
-    <item href="Images/card-free-northerner.jpg" id="card-free-northerner.jpg" media-type="image/jpeg" />
-    <item href="Images/card-jack-donovan-v2.jpg" id="card-jack-donovan-v2.jpg" media-type="image/jpeg" />
-    <item href="Images/card-martin.jpg" id="card-martin.jpg" media-type="image/jpeg" />
-    <item href="Images/card-kevin-macdonald.jpg" id="card-kevin-macdonald.jpg" media-type="image/jpeg" />
-    <item href="Images/card-alex-kurtagic.jpg" id="card-alex-kurtagic.jpg" media-type="image/jpeg" />
-    <item href="Images/card-jared-taylor.jpg" id="card-jared-taylor.jpg" media-type="image/jpeg" />
-    <item href="Images/card-richard-spencer.jpg" id="card-richard-spencer.jpg" media-type="image/jpeg" />
-    <item href="Images/card-john-derbyshire.jpg" id="card-john-derbyshire.jpg" media-type="image/jpeg" />
-    <item href="Images/card-occams-razor.jpg" id="card-occams-razor.jpg" media-type="image/jpeg" />
-    <item href="Images/card-west-hunter.jpg" id="card-west-hunter.jpg" media-type="image/jpeg" />
-    <item href="Images/card-jason-malloy.jpg" id="card-jason-malloy.jpg" media-type="image/jpeg" />
-    <item href="Images/card-dennis-mangan.jpg" id="card-dennis-mangan.jpg" media-type="image/jpeg" />
-    <item href="Images/card-steve-sailer.jpg" id="card-steve-sailer.jpg" media-type="image/jpeg" />
-    <item href="Images/card-hbd-chick.jpg" id="card-hbd-chick.jpg" media-type="image/jpeg" />
-    <item href="Images/card-eliezer-yudkowsky.jpg" id="card-eliezer-yudkowsky.jpg" media-type="image/jpeg" />
-    <item href="Images/card-more-right.jpg" id="card-more-right.jpg" media-type="image/jpeg" />
-    <item href="Images/card-michael-anissimov.jpg" id="card-michael-anissimov.jpg" media-type="image/jpeg" />
-    <item href="Images/card-nick-land-v2.jpg" id="card-nick-land-v2.jpg" media-type="image/jpeg" />
-    <item href="Images/card-scharlach.jpg" id="card-scharlach.jpg" media-type="image/jpeg" />
-    <item href="Images/card-theden-v2.jpg" id="card-theden-v2.jpg" media-type="image/jpeg" />
-    <item href="Images/card-handle-v2.jpg" id="card-handle-v2.jpg" media-type="image/jpeg" />
-    <item href="Images/card-spandrell.jpg" id="card-spandrell.jpg" media-type="image/jpeg" />
-    <item href="Images/card-wesley-morganston.jpg" id="card-wesley-morganston.jpg" media-type="image/jpeg" />
-    <item href="Images/card-james-donald.jpg" id="card-james-donald.jpg" media-type="image/jpeg" />
-    <item href="Images/card-foseti.jpg" id="card-foseti.jpg" media-type="image/jpeg" />
-    <item href="Images/card-mencius-moldbug-v3.jpg" id="card-mencius-moldbug-v3.jpg" media-type="image/jpeg" />
     <item href="Images/b35-regulations.jpg" id="b35-regulations.jpg" media-type="image/jpeg" />
     <item href="Images/b36-dna.jpg" id="b36-dna.jpg" media-type="image/jpeg" />
     <item href="Text/%28b36%29%20Chinese%20Eugenics%20and%20Why%20Losers%20Dont%20Win%20-%20ThedenTV%20%28c00%29%20Title.xhtml" id="_b36__Chinese_Eugenics_and_Why_Losers_Dont_Win_-_ThedenTV__c00__Title.xhtml" media-type="application/xhtml+xml" />
@@ -268,16 +237,12 @@
     <item href="Images/b53-newspeak.jpg" id="b53-newspeak.jpg" media-type="image/jpeg" />
     <item href="Text/%28b54%29%20Wittgenstein%20Ideology%20and%20Signaling%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28b54%29%20Wittgenstein%20Ideology%20and%20Signaling%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/%28g06%29.xhtml" id="_g06_.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c01%29.xhtml" id="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c01_.xhtml" media-type="application/xhtml+xml" />
     <item href="Images/seal-of-the-dark-enlightenment.jpg" id="seal-of-the-dark-enlightenment.jpg" media-type="image/jpeg" />
     <item href="Images/heroes-of-the-dark-enlightenment-symbols.jpg" id="heroes-of-the-dark-enlightenment-symbols.jpg" media-type="image/jpeg" />
-    <item href="Text/%28a01%29%20Heros%20of%20the%20Dark%20Enlightenment%20-%20RadishMag%20%28c00%29%20Title.xhtml" id="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c00__Title.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" id="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c00__Title.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c01%29.xhtml" id="_b00__Neoreactionary_Canon_-_Bryce_Laliberte__c01_.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml" />
-    <item href="Text/glossary.xhtml" id="glossary.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28g00%29.xhtml" id="_g00_.xhtml" media-type="application/xhtml+xml" />
     <item href="Images/author-banner-slate-star-codex.png" id="author-banner-slate-star-codex.png" media-type="image/png" />
     <item href="Images/b04-what-is-neoreaction.jpg" id="b04-what-is-neoreaction.jpg" media-type="image/jpeg" />
@@ -286,7 +251,6 @@
     <item href="Images/author-banner-habitable-worlds.png" id="author-banner-habitable-worlds.png" media-type="image/png" />
     <item href="Images/author-banner-the-legionnaire.jpg" id="author-banner-the-legionnaire.jpg" media-type="image/jpeg" />
     <item href="Images/author-banner-radish.jpg" id="author-banner-radish.jpg" media-type="image/jpeg" />
-    <item href="Text/books.xhtml" id="books.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Michael%20Anissimov%20%28c02%29%20Title.xhtml" id="_b00__Neoreactionary_Canon_-_Michael_Anissimov__c02__Title.xhtml" media-type="application/xhtml+xml" />
     <item href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Michael%20Anissimov%20%28c03%29.xhtml" id="_b00__Neoreactionary_Canon_-_Michael_Anissimov__c03_.xhtml" media-type="application/xhtml+xml" />
   </manifest>
@@ -456,16 +420,10 @@
     <itemref idref="_b53__Orwell_and_Newspeak_-_The_Social_Pathologist__c01_.xhtml" />
     <itemref idref="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c00__Title.xhtml" />
     <itemref idref="_b54__Wittgenstein_Ideology_and_Signaling_-_Bryce_Laliberte__c01_.xhtml" />
-    <itemref idref="_g06_.xhtml" />
-    <itemref idref="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c00__Title.xhtml" />
-    <itemref idref="_a01__Heros_of_the_Dark_Enlightenment_-_RadishMag__c01_.xhtml" />
-    <itemref idref="books.xhtml" />
-    <itemref idref="glossary.xhtml" />
   </spine>
   <guide>
     <reference href="Text/TOC.xhtml" title="Table Of Contents" type="toc" />
     <reference href="Text/title.xhtml" title="Title Page" type="title-page" />
-    <reference href="Text/glossary.xhtml" title="Glossary" type="glossary" />
     <reference href="Text/preface.xhtml" title="Preface" type="preface" />
     <reference href="Text/%28b00%29%20Neoreactionary%20Canon%20-%20Bryce%20Laliberte%20%28c00%29%20Title.xhtml" title="Text" type="text" />
   </guide>
